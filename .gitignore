@@ -1,0 +1,4 @@
+test.txt
+results/
+*.pdf
+.DS_Store
